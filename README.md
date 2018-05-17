@@ -26,5 +26,5 @@ In addition to the basic functionality, you can see more cool functionality to t
 ## Dependencies
 The game uses icon from the following website: [Font Awesome](https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css)
 
-
+## Play Station
 [Live Demo](https://sravanthi-cb.github.io/FEND-Classic-Arcade-Game/)
