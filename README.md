@@ -16,6 +16,13 @@ In addition to the basic functionality, you can see more cool functionality to t
 - Score: The player scores keeps increasing as the player moves to the next levels and check the enemy speed.
 - Collectibles: Gems are randomly placed on the canvas. Check for the enemy collision while collecting the gems.
 
+## Game assets
+![char-boy](https://github.com/Sravanthi-cb/FEND-Classic-Arcade-Game/blob/master/images/char-boy.png)
+
+![Enemy](https://github.com/Sravanthi-cb/FEND-Classic-Arcade-Game/blob/master/images/enemy-bug.png)
+
+![Gems](https://github.com/Sravanthi-cb/FEND-Classic-Arcade-Game/blob/master/images/gem-blue.png)
+
 ## Game Rules
 1. You can start the game by pressing space key.
 2. You can move the player using Up, Down, Right and Left keys
