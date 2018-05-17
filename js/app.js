@@ -1,5 +1,5 @@
-let brickHeight = 83;
-let brickWidth = 101;
+const brickHeight = 83;
+const brickWidth = 101;
 
 // Enemies our player must avoid
 class Enemy {
@@ -8,7 +8,6 @@ class Enemy {
         this.initialize();
     }
     initialize() {
-
         this.x = this.getRandomInt(-300, -100);
         this.y = brickHeight / 2 + 20 + brickHeight * this.getRandomInt(0, 3);
         this.speed = this.getRandomInt(100, 250);
