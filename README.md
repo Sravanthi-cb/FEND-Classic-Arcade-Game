@@ -23,8 +23,5 @@ In addition to the basic functionality, you can see more cool functionality to t
 4. There are 5 lives to play. 
 5. Collect the gems. 
 
-Project [rubric](https://review.udacity.com/#!/projects/2696458597/rubric) 
-
-Instructions followed while working on this project [guide](https://docs.google.com/document/d/1v01aScPjSWCCWQLIpFqvg3-vXLH2e8_SZQKC8jNO0Dc/pub?embedded=true).
 
 [Live Demo](https://sravanthi-cb.github.io/FEND-Classic-Arcade-Game/)
