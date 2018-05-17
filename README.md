@@ -18,9 +18,7 @@ In addition to the basic functionality, you can see more cool functionality to t
 
 ## Game assets
 ![char-boy](https://github.com/Sravanthi-cb/FEND-Classic-Arcade-Game/blob/master/images/char-boy.png)
-
 ![Enemy](https://github.com/Sravanthi-cb/FEND-Classic-Arcade-Game/blob/master/images/enemy-bug.png)
-
 ![Gems](https://github.com/Sravanthi-cb/FEND-Classic-Arcade-Game/blob/master/images/gem-blue.png)
 
 ## Game Rules
